@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🌱 I’m currently learning:front end web development 
+🌱 I’m currently learning:front end web development , Spring Boot , Node.js Frameworks
 
 How to reach me: 
 
