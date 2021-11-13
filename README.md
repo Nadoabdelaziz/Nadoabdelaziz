@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I AM NADA ABDE-LAZIZ 
+
+A Backend PHP WP DEVELOPER
+
 - 🔭 I’m currently working on Developing custom Wordpress Plugin for an E-Commerce Web App. 
 - 🌱 I’m currently learning Object Oriented PHP $ MVC.
  
