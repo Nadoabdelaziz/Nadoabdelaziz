@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-🌱 I’m currently learning:front end web development , Spring Boot , Node.js Frameworks
+- 🔭 I’m currently working on Developing custom Wordpress Plugin for an E-Commerce Web App. 
+- 🌱 I’m currently learning Object Oriented PHP $ MVC.
+ 
 
-How to reach me: 
+- 📫 How to reach me: nadaabdelaziz3011@gmail.com
 
 <!--
 **Nadoabdelaziz/Nadoabdelaziz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
