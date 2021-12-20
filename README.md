@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-I AM NADA ABDE-LAZIZ 
+I AM NADA ABDEL-AZIZ 
 
-A Backend PHP WP DEVELOPER
+A Backend PHP Web Developer.
 
-- 🔭 I’m currently working on Developing custom Wordpress Plugin for an E-Commerce Web App. 
-- 🌱 I’m currently learning Object Oriented PHP $ MVC.
+- 🔭 I’m currently working on Developing an E-Commerce Laravel Web Application using The Admin Package Voyager. 
+
  
 
 - 📫 How to reach me: nadaabdelaziz3011@gmail.com
@@ -15,7 +15,7 @@ A Backend PHP WP DEVELOPER
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Developing custom Wordpress Plugin for an E-Commerce Web App. 
+- 🔭 I’m currently working on Developing an E-Commerce Laravel Web Application using The Admin Package Voyager.
 - 🌱 I’m currently learning Object Oriented PHP $ MVC 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
