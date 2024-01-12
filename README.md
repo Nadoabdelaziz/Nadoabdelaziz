@@ -2,7 +2,7 @@
 
 I AM NADA ABDEL-AZIZ 
 
-A Backend PHP Web Developer.
+A Backend Developer.
 
 - 🔭 I’m currently working on Developing a Multi-Vendor E-COMMERCE Web Application using Laravel PHP.
  
