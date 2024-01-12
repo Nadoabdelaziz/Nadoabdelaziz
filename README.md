@@ -4,7 +4,7 @@ I AM NADA ABDEL-AZIZ
 
 A Backend Developer.
 
-- 🔭 I’m currently working on Developing a Multi-Vendor E-COMMERCE Web Application using Laravel PHP.
+- 🔭 Backend Developer with 3+ years of experience in building scalable web applications using PHP, Java, and Node.js. Proficient in database management, RESTful API development, and Microservices. Bachelor's degree in Computer Science..
  
  
 
